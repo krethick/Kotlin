@@ -1,13 +1,9 @@
 fun main()
 {
-    val above70 = false
-    val knowsProgramming = true
-
-    //&& AND
-    var calledForInterview = above70 && knowsProgramming
-    println(calledForInterview)
-
-    // || OR
-    calledForInterview = above70 || knowsProgramming
-    println(calledForInterview)
+    val number = 21
+    val result = if(number % 2 == 0)
+         "Even"
+    else
+          "Odd"
+    print(result)
 }
