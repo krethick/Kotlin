@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d4f193b-5445-40a0-9d4c-f5d94ffa49ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Conditional_operators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Range_when_statement.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditional_statements.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditional_statements.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
